@@ -1,0 +1,6 @@
+/home/g/Documents/test_work/build/CMakeFiles/test.dir
+/home/g/Documents/test_work/build/CMakeFiles/edit_cache.dir
+/home/g/Documents/test_work/build/CMakeFiles/rebuild_cache.dir
+/home/g/Documents/test_work/build/app/CMakeFiles/my_app.dir
+/home/g/Documents/test_work/build/app/CMakeFiles/edit_cache.dir
+/home/g/Documents/test_work/build/app/CMakeFiles/rebuild_cache.dir

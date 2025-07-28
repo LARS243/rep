@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/g/Documents/test_work/build/cmake_install.cmake",
+		"/home/g/Documents/test_work/build/app/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
